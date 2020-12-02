@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1545995161 source:c:\users\kadhi\tutorial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Entree_Sortie1.h"
+	"txt.h"
+	"affichage.h"
+	"tp3.h"
+	"tp4.h"
+	"tp5.h"
+	"tp2.h"
+
+1545691047 c:\users\kadhi\tutorial\entree_sortie1.h
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1545692440 c:\users\kadhi\tutorial\txt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545516627 c:\users\kadhi\tutorial\affichage.h
+	<string.h>
+	<myconio.h>
+	<time.h>
+	"Entree_Sortie1.h"
+
+1545347798 c:\users\kadhi\tutorial\tp3.h
+	"Entree_Sortie1.h"
+
+1545996516 c:\users\kadhi\tutorial\tp4.h
+	<stdio.h>
+	<stdlib.h>
+
+1545517644 c:\users\kadhi\tutorial\tp5.h
+	<stdio.h>
+	<stdlib.h>
+
+1545994954 c:\users\kadhi\tutorial\tp2.h
+	"Entree_Sortie1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1546677673 source:c:\users\dell\desktop\tutorial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Entree_Sortie1.h"
+	"txt.h"
+	"affichage.h"
+	"tp3.h"
+	"tp4.h"
+	"tp5.h"
+	"tp2.h"
+
+1546676936 c:\users\dell\desktop\tutorial1\entree_sortie1.h
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1546605757 c:\users\dell\desktop\tutorial1\affichage.h
+	<string.h>
+	<myconio.h>
+	<time.h>
+	"Entree_Sortie1.h"
+
+1546675048 c:\users\dell\desktop\tutorial1\txt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545347800 c:\users\dell\desktop\tutorial1\tp3.h
+	"Entree_Sortie1.h"
+
+1545996518 c:\users\dell\desktop\tutorial1\tp4.h
+	<stdio.h>
+	<stdlib.h>
+
+1546676706 c:\users\dell\desktop\tutorial1\tp5.h
+	<stdio.h>
+	<stdlib.h>
+
+1545994956 c:\users\dell\desktop\tutorial1\tp2.h
+	"Entree_Sortie1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1546677674 source:c:\users\dell\desktop\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Entree_Sortie1.h"
+	"txt.h"
+	"affichage.h"
+	"tp3.h"
+	"tp4.h"
+	"tp5.h"
+	"tp2.h"
+
+1546676938 c:\users\dell\desktop\projet_c\entree_sortie1.h
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1546605758 c:\users\dell\desktop\projet_c\affichage.h
+	<string.h>
+	<myconio.h>
+	<time.h>
+	"Entree_Sortie1.h"
+
+1546675050 c:\users\dell\desktop\projet_c\txt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545347800 c:\users\dell\desktop\projet_c\tp3.h
+	"Entree_Sortie1.h"
+
+1545996518 c:\users\dell\desktop\projet_c\tp4.h
+	<stdio.h>
+	<stdlib.h>
+
+1546676708 c:\users\dell\desktop\projet_c\tp5.h
+	<stdio.h>
+	<stdlib.h>
+
+1545994956 c:\users\dell\desktop\projet_c\tp2.h
+	"Entree_Sortie1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1546677674 source:c:\users\dell\desktop\troisieme info polytech\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Entree_Sortie1.h"
+	"txt.h"
+	"affichage.h"
+	"tp3.h"
+	"tp4.h"
+	"tp5.h"
+	"tp2.h"
+
+1546676938 c:\users\dell\desktop\troisieme info polytech\projet_c\entree_sortie1.h
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1546605758 c:\users\dell\desktop\troisieme info polytech\projet_c\affichage.h
+	<string.h>
+	<myconio.h>
+	<time.h>
+	"Entree_Sortie1.h"
+
+1546675050 c:\users\dell\desktop\troisieme info polytech\projet_c\txt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545347800 c:\users\dell\desktop\troisieme info polytech\projet_c\tp3.h
+	"Entree_Sortie1.h"
+
+1545996518 c:\users\dell\desktop\troisieme info polytech\projet_c\tp4.h
+	<stdio.h>
+	<stdlib.h>
+
+1546676708 c:\users\dell\desktop\troisieme info polytech\projet_c\tp5.h
+	<stdio.h>
+	<stdlib.h>
+
+1545994956 c:\users\dell\desktop\troisieme info polytech\projet_c\tp2.h
+	"Entree_Sortie1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1556620216 source:g:\troisieme_poly\projet_c_menu_deroulant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Entree_Sortie1.h"
+	"txt.h"
+	"affichage.h"
+	"tp3.h"
+	"tp4.h"
+	"tp5.h"
+	"tp2.h"
+
+1546676938 g:\troisieme_poly\projet_c_menu_deroulant\entree_sortie1.h
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1546605758 g:\troisieme_poly\projet_c_menu_deroulant\affichage.h
+	<string.h>
+	<myconio.h>
+	<time.h>
+	"Entree_Sortie1.h"
+
+1546675050 g:\troisieme_poly\projet_c_menu_deroulant\txt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545347800 g:\troisieme_poly\projet_c_menu_deroulant\tp3.h
+	"Entree_Sortie1.h"
+
+1545996518 g:\troisieme_poly\projet_c_menu_deroulant\tp4.h
+	<stdio.h>
+	<stdlib.h>
+
+1546676708 g:\troisieme_poly\projet_c_menu_deroulant\tp5.h
+	<stdio.h>
+	<stdlib.h>
+
+1545994956 g:\troisieme_poly\projet_c_menu_deroulant\tp2.h
+	"Entree_Sortie1.h"
+	<stdio.h>
+	<stdlib.h>
+
